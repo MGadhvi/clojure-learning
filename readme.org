@@ -2,5 +2,9 @@
 Collection of notes and learning for Clojure
 
 ** Setup
+- Most coding will take place in my happy space of [[https://guix.gnu.org/][Guix]], [[https://github.com/emacs-exwm/exwm][EXWM]] and [[https://www.gnu.org/software/emacs/][Emacs]] :)
+- [[https://cider.mx/][Cider REPL]]
 ** Books
+- [[https://www.braveclojure.com/][Clojure for the Brave and True]]
 ** Projects
+
