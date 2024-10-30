@@ -1,0 +1,6 @@
+* Clojure Learning Journey
+Collection of notes and learning for Clojure
+
+** Setup
+** Books
+** Projects
